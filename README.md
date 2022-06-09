@@ -2,3 +2,5 @@
 Just a demo repo.
 
 **Some description**
+
+*italic*
