@@ -3,4 +3,4 @@ Just a demo repo.
 
 **Some description**
 
-new line
+*italic*
